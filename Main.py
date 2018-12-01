@@ -1,14 +1,14 @@
 print("Matt Becker is a bitch")
 
 
-def adding(first_num, second_num):
+def adding(first_num_add, second_num_add):
 
-    return print(first_num + second_num)
+    return print(first_num_add + second_num_add)
 
 
-def subtract(first_num, second_num):
+def subtract(first_num_sub, second_num_sub):
 
-        return print(int(first_num) - int(second_num))
+        return print(int(first_num_sub) - int(second_num_sub))
 
 
 if __name__ == "__main__":
